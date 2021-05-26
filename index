@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+   <head>
+       <title>INICIO</title>
+       <meta charset="utf-8">
+       <link rel="stylesheet" href="css/estilo7.css">
+       <link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap" rel="stylesheet">
+   
+   </head>
+    <body>
+       <header>
+           <nav>
+               <a href="#">Inicio</a>
+               <a href="#">Galeria</a>
+                <a href="#">Contacto</a>
+                 <a href="#">Acerca de</a>
+           </nav>
+           <div class="inicio"><h1>Ofrecemos caracteristicas de lugares turisticos en Mexico</h1></div>
+           <div class="ola" style="height: 150px; overflow: hidden;" ><svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 100%; width: 100%;"><path d="M0.00,49.98 C149.99,150.00 349.20,-49.98 500.00,49.98 L500.00,150.00 L0.00,150.00 Z" style="stroke: none; fill: #FFFFFF;"></path></svg></div>
+
+        
+       </header>
+       <section class="contenedor">
+       <h2>Portafolio</h2>
+       <div class="galeria">
+       <div class="img">
+       <img class="imagen" src="img/img1.jpg"> 
+       <h3>Modelo 1</h3>
+       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro necessitatibus voluptatibus perferendis suscipit atque, quae temporibus architecto laboriosam tempore maxime saepe nihil aperiam, officia molestias ab ratione officiis sequi nesciunt.</p> 
+       </div>
+       
+       <div class="img">
+       <img class="imagen" src="img/img2.jpg"> 
+       <h3>Modelo 2</h3>
+       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro necessitatibus voluptatibus perferendis suscipit atque, quae temporibus architecto laboriosam tempore maxime saepe nihil aperiam, officia molestias ab ratione officiis sequi nesciunt.</p> 
+       </div>
+       
+       <div class="img">
+       <img class="imagen" src="img/img3.jpg"> 
+       <h3>Modelo 3</h3>
+       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro necessitatibus voluptatibus perferendis suscipit atque, quae temporibus architecto laboriosam tempore maxime saepe nihil aperiam, officia molestias ab ratione officiis sequi nesciunt.</p> 
+       </div>
+       </div>
+       
+       <div class="galeria">
+       <div class="img">
+       <img class="imagen" src="img/img4.jpg"> 
+       <h3>Modelo 4</h3>
+       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro necessitatibus voluptatibus perferendis suscipit atque, quae temporibus architecto laboriosam tempore maxime saepe nihil aperiam, officia molestias ab ratione officiis sequi nesciunt.</p> 
+       </div>
+       
+       <div class="img">
+       <img class="imagen" src="img/img5.jpg"> 
+       <h3>Modelo 5</h3>
+       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro necessitatibus voluptatibus perferendis suscipit atque, quae temporibus architecto laboriosam tempore maxime saepe nihil aperiam, officia molestias ab ratione officiis sequi nesciunt.</p> 
+       </div>
+       
+       <div class="img">
+       <img class="imagen" src="img/img6.jpg"> 
+       <h3>Modelo 6</h3>
+       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro necessitatibus voluptatibus perferendis suscipit atque, quae temporibus architecto laboriosam tempore maxime saepe nihil aperiam, officia molestias ab ratione officiis sequi nesciunt.</p> 
+       </div>
+       </div>
+      </section>
+       
+       <section class="acerca">
+         <div class="contenedor-nosotros">
+        <h2>Nosotros</h2>
+        <div class="cont-nosotros">
+        <img class="img-nosotros" src="img/undraw_tourist_map_re_293e.svg">
+        <div class="text-nosotros">
+           <p>El turismo es el desplazamiento de las personas de manera temporal y voluntaria.</p> 
+           <p>El turismo resulta muy importante desde el punto de vista social, cultural y económico. Gracias al turismo aumenta notablemente la inversión en construcciones de infraestructura, y edificaciones, genera un mayor nivel de desarrollo en las áreas involucradas, los medios de trasporte suelen ser mejorados en cuanto a la calidad y la frecuencia, así como también aumentan las divisas, las tasas de desempleo disminuyen notablemente, generando un mayor bienestar en las comunidades afectadas.</p> 
+        </div>
+        </div>
+         </div>     
+       </section>
+        <footer>
+            <div class="contenedor-footer">
+               <div class="cont-footer">
+               <img class="img-footer" src="img/facebook_icon-icons.com_59205.png">
+               </div>
+               <div class="cont-footer">
+               <img class="img-footer" src="img/whats%20app.png">
+               </div>
+               <div class="cont-footer">
+               <img class="img-footer" src="img/youtube.png">
+               </div>
+            </div>
+            <h2 class="text-footer">&copy; Adolfo Tinoco Ramírez | Páginas web</h2>
+        </footer>
+    </body>
+</html>
